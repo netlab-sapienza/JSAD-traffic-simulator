@@ -1,0 +1,241 @@
+100
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+200
+foreground jobs 11 
+background jobs 0 
+fcfs jobs 0 
+300
+foreground jobs 0 
+background jobs 6 
+fcfs jobs 0 
+400
+foreground jobs 2 
+background jobs 3 
+fcfs jobs 0 
+500
+foreground jobs 1 
+background jobs 3 
+fcfs jobs 0 
+Average time6.74563946s
+########################
+Average time6.74563946s
+########################
+600
+foreground jobs 3 
+background jobs 0 
+fcfs jobs 0 
+700
+foreground jobs 6 
+background jobs 0 
+fcfs jobs 0 
+800
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+900
+foreground jobs 1 
+background jobs 0 
+fcfs jobs 0 
+1000
+foreground jobs 2 
+background jobs 0 
+fcfs jobs 0 
+Average time6.214495212s
+########################
+Average time6.214495212s
+########################
+1100
+foreground jobs 2 
+background jobs 6 
+fcfs jobs 0 
+1200
+foreground jobs 3 
+background jobs 8 
+fcfs jobs 0 
+1300
+foreground jobs 5 
+background jobs 1 
+fcfs jobs 0 
+1400
+foreground jobs 9 
+background jobs 0 
+fcfs jobs 0 
+1500
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 0 
+Average time6.321462305s
+########################
+Average time6.321462305s
+########################
+1600
+foreground jobs 3 
+background jobs 3 
+fcfs jobs 0 
+1700
+foreground jobs 9 
+background jobs 0 
+fcfs jobs 0 
+1800
+foreground jobs 5 
+background jobs 0 
+fcfs jobs 0 
+1900
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 0 
+2000
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+Average time6.091461867s
+########################
+Average time6.091461867s
+########################
+2100
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+2200
+foreground jobs 4 
+background jobs 1 
+fcfs jobs 0 
+2300
+foreground jobs 1 
+background jobs 3 
+fcfs jobs 0 
+2400
+foreground jobs 0 
+background jobs 2 
+fcfs jobs 0 
+2500
+foreground jobs 1 
+background jobs 10 
+fcfs jobs 0 
+Average time5.779535429s
+########################
+Average time5.779535429s
+########################
+2600
+foreground jobs 0 
+background jobs 6 
+fcfs jobs 0 
+2700
+foreground jobs 3 
+background jobs 7 
+fcfs jobs 0 
+2800
+foreground jobs 13 
+background jobs 7 
+fcfs jobs 0 
+2900
+foreground jobs 0 
+background jobs 14 
+fcfs jobs 0 
+3000
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 0 
+Average time6.901519387s
+########################
+Average time6.901519387s
+########################
+3100
+foreground jobs 1 
+background jobs 0 
+fcfs jobs 0 
+3200
+foreground jobs 0 
+background jobs 3 
+fcfs jobs 0 
+3300
+foreground jobs 16 
+background jobs 6 
+fcfs jobs 0 
+3400
+foreground jobs 5 
+background jobs 16 
+fcfs jobs 0 
+3500
+foreground jobs 1 
+background jobs 27 
+fcfs jobs 0 
+Average time6.753144806s
+########################
+Average time6.753144806s
+########################
+3600
+foreground jobs 0 
+background jobs 19 
+fcfs jobs 0 
+3700
+foreground jobs 0 
+background jobs 19 
+fcfs jobs 0 
+3800
+foreground jobs 1 
+background jobs 13 
+fcfs jobs 0 
+3900
+foreground jobs 7 
+background jobs 11 
+fcfs jobs 0 
+4000
+foreground jobs 13 
+background jobs 20 
+fcfs jobs 0 
+Average time8.663851357s
+########################
+Average time8.663851357s
+########################
+4100
+foreground jobs 6 
+background jobs 29 
+fcfs jobs 0 
+4200
+foreground jobs 1 
+background jobs 28 
+fcfs jobs 0 
+4300
+foreground jobs 1 
+background jobs 28 
+fcfs jobs 0 
+4400
+foreground jobs 2 
+background jobs 27 
+fcfs jobs 0 
+4500
+foreground jobs 1 
+background jobs 24 
+fcfs jobs 0 
+Average time10.070157461s
+########################
+Average time10.070157461s
+########################
+4600
+foreground jobs 0 
+background jobs 25 
+fcfs jobs 0 
+4700
+foreground jobs 3 
+background jobs 24 
+fcfs jobs 0 
+4800
+foreground jobs 13 
+background jobs 14 
+fcfs jobs 0 
+4900
+foreground jobs 12 
+background jobs 17 
+fcfs jobs 0 
+Ended adding to queue
+5000
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+Average time13.427148031s
+########################
+Average time13.427148031s
+########################

@@ -1,0 +1,463 @@
+100
+foreground jobs 1 
+background jobs 4 
+fcfs jobs 0 
+200
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 0 
+300
+foreground jobs 0 
+background jobs 1 
+fcfs jobs 0 
+400
+foreground jobs 1 
+background jobs 0 
+fcfs jobs 0 
+500
+foreground jobs 1 
+background jobs 6 
+fcfs jobs 0 
+########################
+Average time3.292598164s
+########################
+600
+foreground jobs 4 
+background jobs 13 
+fcfs jobs 0 
+700
+foreground jobs 0 
+background jobs 10 
+fcfs jobs 0 
+800
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 7 
+900
+foreground jobs 11 
+background jobs 0 
+fcfs jobs 6 
+1000
+foreground jobs 5 
+background jobs 6 
+fcfs jobs 6 
+########################
+Average time6.677940003s
+########################
+1100
+foreground jobs 0 
+background jobs 16 
+fcfs jobs 6 
+1200
+foreground jobs 4 
+background jobs 19 
+fcfs jobs 6 
+1300
+foreground jobs 6 
+background jobs 14 
+fcfs jobs 6 
+1400
+foreground jobs 12 
+background jobs 20 
+fcfs jobs 6 
+1500
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 6 
+########################
+Average time8.121360371s
+########################
+1600
+foreground jobs 4 
+background jobs 20 
+fcfs jobs 6 
+1700
+foreground jobs 2 
+background jobs 21 
+fcfs jobs 6 
+1800
+foreground jobs 6 
+background jobs 23 
+fcfs jobs 6 
+1900
+foreground jobs 2 
+background jobs 26 
+fcfs jobs 6 
+2000
+foreground jobs 1 
+background jobs 20 
+fcfs jobs 12 
+########################
+Average time9.419904271s
+########################
+2100
+foreground jobs 0 
+background jobs 21 
+fcfs jobs 13 
+2200
+foreground jobs 0 
+background jobs 15 
+fcfs jobs 18 
+2300
+foreground jobs 7 
+background jobs 22 
+fcfs jobs 18 
+2400
+foreground jobs 1 
+background jobs 22 
+fcfs jobs 19 
+2500
+foreground jobs 3 
+background jobs 25 
+fcfs jobs 19 
+########################
+Average time9.574146781s
+########################
+2600
+foreground jobs 0 
+background jobs 25 
+fcfs jobs 20 
+2700
+foreground jobs 8 
+background jobs 22 
+fcfs jobs 25 
+2800
+foreground jobs 11 
+background jobs 28 
+fcfs jobs 25 
+2900
+foreground jobs 0 
+background jobs 35 
+fcfs jobs 25 
+3000
+foreground jobs 1 
+background jobs 18 
+fcfs jobs 33 
+########################
+Average time10.466022472s
+########################
+3100
+foreground jobs 0 
+background jobs 12 
+fcfs jobs 37 
+3200
+foreground jobs 2 
+background jobs 0 
+fcfs jobs 43 
+3300
+foreground jobs 14 
+background jobs 0 
+fcfs jobs 40 
+3400
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 40 
+3500
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 30 
+########################
+Average time21.411558125s
+########################
+3600
+foreground jobs 7 
+background jobs 1 
+fcfs jobs 26 
+3700
+foreground jobs 22 
+background jobs 6 
+fcfs jobs 26 
+3800
+foreground jobs 18 
+background jobs 12 
+fcfs jobs 26 
+3900
+foreground jobs 3 
+background jobs 16 
+fcfs jobs 26 
+4000
+foreground jobs 1 
+background jobs 17 
+fcfs jobs 26 
+########################
+Average time21.914016181s
+########################
+4100
+foreground jobs 0 
+background jobs 17 
+fcfs jobs 26 
+4200
+foreground jobs 2 
+background jobs 2 
+fcfs jobs 34 
+4300
+foreground jobs 0 
+background jobs 3 
+fcfs jobs 34 
+4400
+foreground jobs 0 
+background jobs 5 
+fcfs jobs 37 
+4500
+foreground jobs 1 
+background jobs 4 
+fcfs jobs 39 
+########################
+Average time21.391428849s
+########################
+4600
+foreground jobs 1 
+background jobs 2 
+fcfs jobs 42 
+4700
+foreground jobs 4 
+background jobs 7 
+fcfs jobs 42 
+4800
+foreground jobs 0 
+background jobs 9 
+fcfs jobs 42 
+4900
+foreground jobs 2 
+background jobs 5 
+fcfs jobs 44 
+5000
+foreground jobs 9 
+background jobs 0 
+fcfs jobs 44 
+########################
+Average time22.215444558s
+########################
+5100
+foreground jobs 3 
+background jobs 4 
+fcfs jobs 44 
+5200
+foreground jobs 5 
+background jobs 8 
+fcfs jobs 44 
+5300
+foreground jobs 0 
+background jobs 9 
+fcfs jobs 44 
+5400
+foreground jobs 4 
+background jobs 0 
+fcfs jobs 44 
+5500
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 40 
+########################
+Average time25.99712462s
+########################
+5600
+foreground jobs 4 
+background jobs 0 
+fcfs jobs 33 
+5700
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 28 
+5800
+foreground jobs 1 
+background jobs 4 
+fcfs jobs 28 
+5900
+foreground jobs 1 
+background jobs 0 
+fcfs jobs 26 
+6000
+foreground jobs 3 
+background jobs 2 
+fcfs jobs 24 
+########################
+Average time31.680217071s
+########################
+6100
+foreground jobs 1 
+background jobs 4 
+fcfs jobs 22 
+6200
+foreground jobs 1 
+background jobs 4 
+fcfs jobs 22 
+6300
+foreground jobs 2 
+background jobs 1 
+fcfs jobs 19 
+6400
+foreground jobs 9 
+background jobs 2 
+fcfs jobs 18 
+6500
+foreground jobs 5 
+background jobs 0 
+fcfs jobs 10 
+########################
+Average time34.598024764s
+########################
+6600
+foreground jobs 1 
+background jobs 1 
+fcfs jobs 10 
+6700
+foreground jobs 5 
+background jobs 6 
+fcfs jobs 10 
+6800
+foreground jobs 0 
+background jobs 8 
+fcfs jobs 10 
+6900
+foreground jobs 0 
+background jobs 6 
+fcfs jobs 13 
+7000
+foreground jobs 0 
+background jobs 4 
+fcfs jobs 15 
+########################
+Average time33.286419744s
+########################
+7100
+foreground jobs 5 
+background jobs 0 
+fcfs jobs 8 
+7200
+foreground jobs 3 
+background jobs 0 
+fcfs jobs 5 
+7300
+foreground jobs 0 
+background jobs 4 
+fcfs jobs 5 
+7400
+foreground jobs 15 
+background jobs 0 
+fcfs jobs 6 
+7500
+foreground jobs 1 
+background jobs 5 
+fcfs jobs 6 
+########################
+Average time32.598856486s
+########################
+7600
+foreground jobs 2 
+background jobs 3 
+fcfs jobs 6 
+7700
+foreground jobs 2 
+background jobs 0 
+fcfs jobs 8 
+7800
+foreground jobs 2 
+background jobs 1 
+fcfs jobs 3 
+7900
+foreground jobs 2 
+background jobs 4 
+fcfs jobs 3 
+8000
+foreground jobs 0 
+background jobs 1 
+fcfs jobs 0 
+########################
+Average time31.52254433s
+########################
+8100
+foreground jobs 1 
+background jobs 4 
+fcfs jobs 0 
+8200
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+8300
+foreground jobs 3 
+background jobs 0 
+fcfs jobs 0 
+8400
+foreground jobs 3 
+background jobs 3 
+fcfs jobs 0 
+8500
+foreground jobs 2 
+background jobs 1 
+fcfs jobs 0 
+########################
+Average time29.85335192s
+########################
+8600
+foreground jobs 2 
+background jobs 7 
+fcfs jobs 0 
+8700
+foreground jobs 0 
+background jobs 6 
+fcfs jobs 1 
+8800
+foreground jobs 4 
+background jobs 1 
+fcfs jobs 6 
+8900
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+9000
+foreground jobs 1 
+background jobs 0 
+fcfs jobs 0 
+########################
+Average time28.636562821s
+########################
+9100
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+9200
+foreground jobs 5 
+background jobs 0 
+fcfs jobs 0 
+9300
+foreground jobs 8 
+background jobs 6 
+fcfs jobs 0 
+9400
+foreground jobs 6 
+background jobs 14 
+fcfs jobs 0 
+9500
+foreground jobs 5 
+background jobs 21 
+fcfs jobs 0 
+########################
+Average time27.384635868s
+########################
+9600
+foreground jobs 0 
+background jobs 26 
+fcfs jobs 0 
+9700
+foreground jobs 0 
+background jobs 25 
+fcfs jobs 0 
+9800
+foreground jobs 3 
+background jobs 33 
+fcfs jobs 0 
+9900
+foreground jobs 6 
+background jobs 35 
+fcfs jobs 0 
+Ended adding to queue
+10000
+foreground jobs 0 
+background jobs 0 
+fcfs jobs 0 
+########################
+Average time28.205328161s
+########################
+After service join
+28.205328161s
